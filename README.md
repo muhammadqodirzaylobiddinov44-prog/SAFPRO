@@ -9,3 +9,4 @@
   <button onclick="alert('Ishlayapti!')">Bos</button>
 </body>
 </html># SAFPRO
+/api/storage/uploads/request-url
