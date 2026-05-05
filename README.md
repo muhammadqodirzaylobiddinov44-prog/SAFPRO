@@ -20,3 +20,4 @@
   <p>Bepul sayt ishlayapti</p>
 </body>
 </html>
+https://username.github.io/mysite
